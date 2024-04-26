@@ -24,4 +24,4 @@ The Dicee Game is a simple JavaScript-based game. The player with the higher sum
 
 ## Live Demo 
 
-Play the game [here](https://github.com/TwojNazwaUzytkownika).
+Play the game [here](https://iwona97.github.io/The-Dicee-Game/).
