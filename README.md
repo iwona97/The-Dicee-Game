@@ -1,5 +1,4 @@
-
-# The Dicee Game
+# The Dicee Game 🎲
 
 ## Description
 
@@ -11,10 +10,10 @@ The Dicee Game is a simple JavaScript-based game. The player with the higher sum
 
 ## How to Play
 
-1. Open the game in your web browser.
-2. The numbers rolled on the dice will be displayed.
-3. The player with the higher sum of the two dice wins the round.
-4. Refresh the browser to start a new round.
+1. Open the game in your web browser. 🌐
+2. The numbers rolled on the dice will be displayed.🎲
+3. The player with the higher sum of the two dice wins the round. 🏆
+4. Refresh the browser to start a new round.🔄
 
 ## Technologies
 
